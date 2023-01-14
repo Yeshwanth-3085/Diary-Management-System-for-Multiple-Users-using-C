@@ -1,4 +1,4 @@
-# Diary-Management-System-for-Multiple-Users-using-C
+# Diary-Management-System-for-Multiple-Users-with-Password-Protection-using-C
 
 This application is developed to use as a daily usage diary, which is used to maintain records, to do lists, meetups, etc. for multiple users protected with password.
 
