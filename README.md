@@ -46,6 +46,4 @@ LinkedIn Profile: Yeshwanth N
   
 Discord Profile: Yeshwanth N #4663
 
-And yeah, the app & code are free to use no copyrights, but don't just copy paste the code & complete your projects, as I said before checkout the code & how does it works just to understand its implementation.
-
-Thank you for using it.
+And yeah, the app & code are free to use no copyrights.
