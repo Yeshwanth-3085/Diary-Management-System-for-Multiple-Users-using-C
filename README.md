@@ -22,12 +22,13 @@ This application is developed to use as a daily usage diary, which is used to ma
 
 And there are more sub operations in few of these operations which will be self-descriptive while using these few operations.
 
-## Requirements
-Please store the application & related files in a separate empty folder for it's optimal functioning.  
+## Requirements & Setup
 
-The code for this application was written in C to run under the MinGW compiler system, which provides a native Windows port of the GNU Compiler Collection (GCC) which is available with CodeBlocks IDE. It is required if you want to see for yourself how the code works which I strongly recommend & to make changes in the code.  
+- Please store the application & related files in a separate empty folder for it's optimal functioning.  
+- The code for this application was written in C to run under the MinGW compiler system, which provides a native Windows port of the GNU Compiler Collection (GCC) which is available with CodeBlocks IDE (Recommended to use CodeBlocks IDE's MinGW).  
+- It is required if you want to see for yourself how the code works & to make changes in the code.  
 
-If you encounter any bugs, feel free to reach out, and I'll work to resolve them.
+If you encounter any bugs, feel free to reach out, and I'll work to resolve them.  
 
 **Project Link:** [Diary Management System for Multiple Users using C](https://github.com/Yeshwanth-3085/Diary-Management-System-for-Multiple-Users-using-C)
 
