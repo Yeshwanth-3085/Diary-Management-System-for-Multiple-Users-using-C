@@ -22,7 +22,7 @@ This application is developed to use as a daily usage diary, which is used to ma
 
 And there are more sub operations in few of these operations which will be self-descriptive while using these few operations.
 
-## Requirements & Setup
+## Requirements
 
 - Please store the application & related files in a separate empty folder for it's optimal functioning.  
 - The code for this application was written in C to run under the MinGW compiler system, which provides a native Windows port of the GNU Compiler Collection (GCC) which is available with CodeBlocks IDE (Recommended to use CodeBlocks IDE's MinGW).  
